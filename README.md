@@ -1,1 +1,1 @@
-# github.zero-pt.github.io
+# zero-pt.github.io
